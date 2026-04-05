@@ -33,6 +33,12 @@ https://www.ewubd.edu
 - Master of Science in Mathematics
 - Master of Science in Physics
 
+## Department of Pharmacy
+### Undergraduate Programs
+- Bachelor of Pharmacy (B.Pharm.)
+### Postgraduate Programs
+- Master of Philosophy in Pharmacy (M.Phil in Pharmacy)
+
 # Faculty of Business and Economics
 
 ## Department of Business Administration
@@ -82,8 +88,4 @@ https://www.ewubd.edu
 ### Postgraduate Programs
 - Master of Education (M.Ed.)
 
-## Department of Pharmacy
-### Undergraduate Programs
-- Bachelor of Pharmacy (B.Pharm.)
-### Postgraduate Programs
-- Master of Philosophy in Pharmacy (M.Phil in Pharmacy)
+
