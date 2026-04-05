@@ -1,0 +1,38 @@
+{"prompt": "What is the full grading system chart?", "response": "Here is the Uniform Recommended Grading System breakdown:\n\n- **A+**: 80% and above (4.00)\n- **A**: 75% to less than 80% (3.75)\n- **A-**: 70% to less than 75% (3.50)\n- **B+**: 65% to less than 70% (3.25)\n- **B**: 60% to less than 65% (3.00)\n- **B-**: 55% to less than 60% (2.75)\n- **C+**: 50% to less than 55% (2.50)\n- **C**: 45% to less than 50% (2.25)\n- **D**: 40% to less than 45% (2.00)\n- **F**: Less than 40% (0.00)"}
+{"prompt": "Show me the grade scale with percentages and GPAs.", "response": "The grade scale is:\nA+ (80%+): 4.00\nA (75%-<80%): 3.75\nA- (70%-<75%): 3.50\nB+ (65%-<70%): 3.25\nB (60%-<65%): 3.00\nB- (55%-<60%): 2.75\nC+ (50%-<55%): 2.50\nC (45%-<50%): 2.25\nD (40%-<45%): 2.00\nF (<40%): 0.00"}
+{"prompt": "What are the passing letter grades in the grading system?", "response": "The letter grades A, B, C, and D are considered passing grades."}
+{"prompt": "What is the numerical score range for an A+?", "response": "An A+ requires a numerical score of 80% and above."}
+{"prompt": "How many grade points is an A+ worth?", "response": "An A+ is worth 4.00 grade points."}
+{"prompt": "What is the numerical score required for an A grade?", "response": "An A grade requires a score of 75% to less than 80%."}
+{"prompt": "What is the grade point value for an A?", "response": "An A is worth 3.75 grade points."}
+{"prompt": "What numerical score corresponds to an A-?", "response": "An A- corresponds to a score of 70% to less than 75%."}
+{"prompt": "How many grade points is an A-?", "response": "An A- is worth 3.50 grade points."}
+{"prompt": "What is the score range for a B+?", "response": "A B+ is assigned for scores from 65% to less than 70%."}
+{"prompt": "What is the grade point for a B+?", "response": "A B+ is worth 3.25 grade points."}
+{"prompt": "What score do I need to get a B?", "response": "You need a score of 60% to less than 65% to get a B."}
+{"prompt": "What is the GPA value for a B grade?", "response": "A B grade carries 3.00 grade points."}
+{"prompt": "What is the numerical range for a B-?", "response": "The range for a B- is 55% to less than 60%."}
+{"prompt": "How many grade points is a B-?", "response": "A B- is worth 2.75 grade points."}
+{"prompt": "What score is required for a C+?", "response": "A C+ requires a numerical score of 50% to less than 55%."}
+{"prompt": "What is the grade point value of a C+?", "response": "A C+ is worth 2.50 grade points."}
+{"prompt": "What is the numerical range for a C grade?", "response": "A C grade corresponds to 45% to less than 50%."}
+{"prompt": "How many grade points is a C?", "response": "A C is worth 2.25 grade points."}
+{"prompt": "What is the lowest passing grade?", "response": "The lowest passing grade is D, which requires 40% to less than 45%."}
+{"prompt": "What is the grade point for a D?", "response": "A D is worth 2.00 grade points."}
+{"prompt": "What constitutes a failing grade?", "response": "A numerical score of less than 40% is an F (Failing) grade."}
+{"prompt": "What is the grade point for an F?", "response": "An F carries 0.00 grade points."}
+{"prompt": "What does the special grade F* mean?", "response": "F* stands for Failure, where the 0 grade point is applied only for the calculation of the grade point average."}
+{"prompt": "What does the grade U mean?", "response": "U (or U*) stands for Unsatisfactory. Credits for these courses do not apply towards graduation and are not used for GPA calculation."}
+{"prompt": "Does an Incomplete (I) grade affect my GPA?", "response": "No, 'I' grades are not used for the calculation of the grade point average and do not count towards graduation credits."}
+{"prompt": "Do P (Pass) grades count towards graduation?", "response": "Yes, credits for courses with P grades are required for graduation, but they are not used for GPA calculation."}
+{"prompt": "Does a Retake (R) grade count towards graduation?", "response": "No, credits for R (Repeat/Retake) grades do not apply towards graduation and are not used for GPA calculation."}
+{"prompt": "What is an S grade?", "response": "S stands for Satisfactory. Credits for S courses are required for graduation but are not used for calculating the grade point average."}
+{"prompt": "Does a Withdrawal (W) affect my GPA?", "response": "No, W grades are not used for the calculation of the grade point average and do not apply towards graduation."}
+{"prompt": "If I get 78%, what is my grade?", "response": "A score of 78% is an A (75% to less than 80%)."}
+{"prompt": "If I get 42%, did I fail?", "response": "No, 42% is a D, which is a passing grade."}
+{"prompt": "I have a 3.50 grade point in a class. What letter grade is that?", "response": "A 3.50 grade point corresponds to an A-."}
+{"prompt": "What grading system does EWU follow?", "response": "EWU follows the Uniform Recommended Grading System."}
+{"prompt": "Tell me about the grading system at East West University.", "response": "It is the Uniform Recommended Grading System, where grades A, B, C, and D are passing, and F is failing."}
+{"prompt": "How many types of letter grades can a student earn?", "response": "A student may earn five letter grades on the basis of his/her performance in a course."}
+{"prompt": "Which letter grades are considered passing at EWU?", "response": "The letter grades A, B, C, and D are considered passing grades."}
+{"prompt": "What is the failing grade at EWU?", "response": "The grade F is considered the failing grade."}
