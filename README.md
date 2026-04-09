@@ -10,7 +10,9 @@ This repository contains a complete implementation of an AI-powered university a
 
 ## 📁 Repository Structure
 
-├── Data file for RAG/
+```text
+.
+├── Data file for RAG
 │   ├── dynamic_Admission.md
 │   ├── dynamic_admission_calender.md
 │   ├── dynamic_events.md
@@ -34,7 +36,7 @@ This repository contains a complete implementation of an AI-powered university a
 │   ├── static_payment_procedure.md
 │   ├── static_scholarship_and_financial.md
 │
-├── gemma3 fine tune data/
+├── gemma3 fine tune data
 │   ├── dynamic_admission.jsonl
 │   ├── dynamic_admission_calender.jsonl
 │   ├── dynamic_events.jsonl
@@ -61,8 +63,7 @@ This repository contains a complete implementation of an AI-powered university a
 ├── ewu-chatbot-gemma3-rag.ipynb
 ├── fine-tuning-gemma3.ipynb
 ├── README.md
-
-
+```
 ---
 
 ##  Features
